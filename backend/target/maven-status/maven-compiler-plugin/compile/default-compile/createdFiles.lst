@@ -1,0 +1,5 @@
+com\codepair\backend\CodepairApplication.class
+com\codepair\backend\config\WebSocketConfig.class
+com\codepair\backend\controller\EditorController.class
+com\example\codepair\config\CorsConfig$1.class
+com\example\codepair\config\CorsConfig.class
